@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Abhay Pratap Singh",
+    "label": "Fullstack and DevOps Engineer",
+    "picture": "images/abhay.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 8 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in all sorts of automation and developing front-end and back-end applications.",
+    "location": {
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Bangalore"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "xxxxx",
+        "url": "https://dev.to/xxxx",
+        "x_icon":"fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/xxxxxxx",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "abhi15sep",
+        "url": "https://github.com/abhi15sep",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Torry Harris Integration System",
+      "position": "Devops Engineer",
+      "website": "",
+      "startDate": "2018-06-16",
+      "endDate": "",
+      "summary": "Worked as Devops Engineer. Got a change to work on AWS and related devops technologies.",
+      "highlights": []
+    },
+    {
+      "company": "Everything Everywhere",
+      "position": "Software developer",
+      "website": "https://myaccount.ee.co.uk",
+      "startDate": "2014-11-20",
+      "endDate": "2017-05-11",
+      "summary": "Worked on development of MYEE self serve application.",
+      "highlights": []
+    },
+    {
+      "company": "Torry Harris Business Solutions",
+      "position": "Web Services developer",
+      "website": "",
+      "startDate": "2012-02-01",
+      "endDate": "2014-10-20",
+      "summary": "Joined as fresher, here i worked on Soap based and restful Webservices development .",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "VTU",
+      "area": "Electronice and Communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-15",
+      "endDate": "2011-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "react",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Ansible",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Spring",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
